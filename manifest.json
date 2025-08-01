@@ -1,7 +1,7 @@
 {
   "id": "dev.innerviewer.HideGameActivity",
   "name": "Hide Game Activity",
-  "description": "Disable game detection, while preserving other RPC.",
+  "description": "Disable game detection, while preserving other RPC (e.g. music apps).",
   "author": {
     "name": "innerviewer",
     "discordID": "1010130664269566064",
@@ -16,5 +16,7 @@
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
   "source": "https://github.com/innerviewer/disable-game-rpc",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "image": [
+    "https://imgur.com/a/wnbaphl"
+  ]
 }
